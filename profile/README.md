@@ -5,6 +5,7 @@ The NASA Protocol Exploits team was founded in T1/2022. Our mission is to evalua
 <details>
 
 <summary>"I'm new to the team, where should I begin?"</summary>
+  <br>
 <ul>
 <li>Read the handbook its full of all sorts of helpful information!</li>
 <li>Take a look at the avaiable learning resources.</li>
