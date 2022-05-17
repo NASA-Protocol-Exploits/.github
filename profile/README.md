@@ -1,3 +1,3 @@
-# Hi there, Welcome to the Licklider Transmission Protocol Github 👋
+# Hi there, Welcome to the LTP Github 👋
 
-NASA Protocol Exploits was founded on February 21st, 2022. Our mission is to evaluate space communications from a security perspective by exploring various protocols and implementations for vulnerabiltiies. 
+The NASA Protocol Exploits tea, was founded in T1/2022. Our mission is to evaluate space communications from a security perspective by exploring various protocols and implementations for vulnerabiltiies. 
