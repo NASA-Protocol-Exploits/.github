@@ -1,7 +1,7 @@
 ## Welcome to the LTP Team GitHub! 👋
 
 The NASA Protocol Exploits team was founded in T1/2022. Our mission is to research and evaluate space communications from a security perspective by exploring various protocols and implementations for vulnerabiltiies. 
-
+Read the [Handbook](https://github.com/NASA-Protocol-Exploits/handbook/blob/main/README.md) 
 <details>
 
 <summary>"I am new to the team, where should I begin?"</summary>
